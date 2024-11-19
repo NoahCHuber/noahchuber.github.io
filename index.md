@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Can Bus Communication | CSCI 332](project1)
+### [Sending Data Across A Can Bus | CSCI 332](project1)
 
 ![Project 1 Thumbnail Name](images/CanBusIMG.png)
 
@@ -57,10 +57,10 @@ Presentations
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Sending Data Across A Can Bus](/pdf/sample_presentation.pdf)
 
-- **Class: ** 
-- **Grade:**
+- **Class: CSCI 332: Applied Networking** 
+- **Grade: A**
 
 ---
 
