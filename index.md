@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Can Bus Communication | CSCI 332](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/CanBusIMG.png)
 
 ---
 ### [Inventory DataBase (Mock ServiceTitan) | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/DatabaseIMG.png)
 
 ---
 ### [Large Map | CSCI 315](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/MapIMG.png)
 
 ---
 ### [MineField | CSCI 325](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Minefield1IMG.png)
 
 ---
 
