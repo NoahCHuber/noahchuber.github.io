@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Large Map | CSCI 315](Map.md)
 
-![Large Map](images/MapIMG.png)
+![Large Map](images/MAP.png)
 
 ---
 ### [MineField | CSCI 325](Minefield.md)
