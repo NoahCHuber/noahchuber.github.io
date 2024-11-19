@@ -7,24 +7,24 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Sending Data Across A Can Bus | CSCI 332](project1)
+### [Sending Data Across A Can Bus | CSCI 332](CanBus)
 
-![Project 1 Thumbnail Name](images/CanBusIMG.png)
-
----
-### [Inventory DataBase (Mock ServiceTitan) | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/DatabaseIMG.png)
+![CanBus](images/CanBusIMG.png)
 
 ---
-### [Large Map | CSCI 315](project1)
+### [Inventory DataBase (Mock ServiceTitan) | CSCI 315](Inventory)
 
-![Project 3 Thumbnail Name](images/MapIMG.png)
+![Inventory Database](images/DatabaseIMG.png)
 
 ---
-### [MineField | CSCI 325](project1)
+### [Large Map | CSCI 315](Map)
 
-![Project 4 Thumbnail Name](images/Minefield1IMG.png)
+![Large Map](images/MapIMG.png)
+
+---
+### [MineField | CSCI 325](Minefield)
+
+![Minefield](images/Minefield1IMG.png)
 
 ---
 
