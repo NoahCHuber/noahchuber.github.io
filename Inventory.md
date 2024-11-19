@@ -1,28 +1,24 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Parts Inventory Database (Inspired By ServiceTitan)
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 419 Database Management** 
+-   **Grade: TBD** 
+-   **Language(s): SQL (Oracle APEX)** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## How to compile and run the program
+## Development
 
-How to compile (if applicable) and run the project.
+This project was developed inside of Oracle Apex as a database application. 
+Access to the application is limited to the student and professor. 
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+However, the SQL used to generate the tables can be run in a separate database and will generate the proper tables. 
 
 ## UI Design
 
@@ -31,13 +27,13 @@ Almost every program requires user interaction, even command-line programs. Incl
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Fig 1. The Home Screen
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Example Dashboard
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. List of Jobs and Parts
 
 ## 3. Additional Considerations
 
