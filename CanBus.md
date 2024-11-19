@@ -1,48 +1,50 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Sending Data Across a Can Bus
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI332: Applied Networking** 
+-   **Grade: A** 
+-   **Language(s): C/C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Controller Area Network (CAN
+Bus) is a communication protocol
+widely used in the automotive
+industry and industrial applications.
+It enables multiple electronic
+control units (ECUs) to
+communicate with each other over
+a two-wire network, facilitating
+real-time data exchange with high
+reliability and fault tolerance.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Download source code and important into two instances of Arduino IDE.
+Open source code in Arduino IDE and push the code to each board. (Note: There are two separate code files for each board)
+Once the code is pushed start the board with the temperature sensor first then the receiving/display end. 
+Wait for the display to start and output the data.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+This setup uses a simple Liquid Crystal Display (LCD) and outputs the temperature. There is zero human input to this program after
+it is running. The temperature is monitored by the sensor and formatted as output on the LCD. 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+## Video Demonstration
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Here is a short overview and demonstration video [CanBus Video](https://youtu.be/A2FlE2YflOg).
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This is a barebones setup in beginning understanding and working with Can Bus communication. 
+This project only controls the LCD and reads data from the temperature sensor. The code is easily adaptable.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details or advanced look inside [Can Bus Github Repo](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
