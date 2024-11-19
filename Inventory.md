@@ -1,6 +1,7 @@
 [Back to Portfolio](./)
 
-Parts Inventory Database (Inspired By ServiceTitan)
+Parts Inventory Database 
+(Inspired By ServiceTitan)
 ===============
 
 -   **Class: CSCI 419 Database Management** 
