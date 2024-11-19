@@ -31,35 +31,35 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethical Implications of Cybersecurity](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 325: Object Oriented Programming**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Professionals in Technology](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315: Data-Structure Analysis** 
+-   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Net Neutrality](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 332: Applied Networking** 
+-   **Grade: A**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Small Businesses and Cybersecurity](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405: Principles of Cybersecurity** 
+- **Grade: A**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
 
-- **Class:** 
+- **Class: ** 
 - **Grade:**
 
 ---
