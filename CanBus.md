@@ -24,12 +24,10 @@ reliability and fault tolerance.
 
 ## How to compile and run the program
 
-How to compile and run the project.
-
-Download source code and important into two instances of Arduino IDE.
-Open source code in Arduino IDE and push the code to each board. (Note: There are two separate code files for each board)
-Once the code is pushed start the board with the temperature sensor first then the receiving/display end. 
-Wait for the display to start and output the data.
+- Download source code and important into two instances of Arduino IDE.
+- Open source code in Arduino IDE and push the code to each board. (Note: There are two separate code files for each board)
+- Once the code is pushed start the board with the temperature sensor first then the receiving/display end. 
+- Wait for the display to start and output the data.
 
 ## UI Design
 
