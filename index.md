@@ -12,7 +12,7 @@ Programming Projects
 ![CanBus](images/CanBusIMG.png)
 
 ---
-### [Inventory DataBase (Mock ServiceTitan) | CSCI 315](Inventory.md)
+### [Inventory DataBase (Inspired By ServiceTitan) | CSCI 315](Inventory.md)
 
 ![Inventory Database](images/DatabaseIMG.png)
 
