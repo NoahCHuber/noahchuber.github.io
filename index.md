@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Small Businesses and Cybersecurity](/pdf/Small Businesses and Cybersecurity.pdf)
+### [Small Businesses and Cybersecurity](/pdf/SBaC.pdf)
 
 - **Class: CSCI 405: Principles of Cybersecurity** 
 - **Grade: A**
