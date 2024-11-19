@@ -2,6 +2,7 @@
 
 Parts Inventory Database 
 (Inspired By ServiceTitan)
+
 ===============
 
 -   **Class: CSCI 419 Database Management** 
