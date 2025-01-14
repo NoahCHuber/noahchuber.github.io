@@ -4,13 +4,13 @@ title: Noah C Huber # your name here
 logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
-  In partial fulfillment of the requirements for the degree of
+  In partial fulfillment of the requirements for the degree
   Bachelor of Arts Applied Computing: Cybersecurity Concentration (Class of 2026) <br />
-  <a href="https://example.com/resume">View My Resume</a>
+  <a href="https://example.com/resume">View My Resume</a> <br />
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> <br />
-repository: "csci-csu/csci-portfolio"
+# repository: "csci-csu/csci-portfolio"
 github_username:  NoahCHuber # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
 theme: jekyll-theme-minimal
