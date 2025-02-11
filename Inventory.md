@@ -6,10 +6,10 @@ Parts Inventory Database
 ===============
 
 -   **Class: CSCI 419 Database Management** 
--   **Grade: TBD** 
+-   **Grade: B+** 
 -   **Language(s): SQL (Oracle APEX)** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [NoahCHuber/HVACInventoryDatabase]([(https://github.com/NoahCHuber/HVACInventoryDatabase)])  
+    (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
