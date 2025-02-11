@@ -1,7 +1,7 @@
 [Back to Portfolio](./)
 
-Parts Inventory Database 
-(Inspired By ServiceTitan)
+**Parts Inventory Database 
+(Inspired By ServiceTitan)**
 
 ===============
 
@@ -26,16 +26,17 @@ However, the SQL used to generate the tables can be run in a separate database a
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/DatabaseIMG.jpg)  
+Fig 1. Dashboard/Home screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The Home Screen
+![screenshot](images/Jobs.jpg)  
+Fig 2. Jobs screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example Dashboard
+![screenshot](images/Orders.jpg)  
+Fig 3. List of all orders
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. List of Jobs and Parts
+![screenshot](images/partsTable.png)
+Fig 4. List of all parts
 
 ## 3. Additional Considerations
 
