@@ -8,7 +8,7 @@ Parts Inventory Database
 -   **Class: CSCI 419 Database Management** 
 -   **Grade: B+** 
 -   **Language(s): SQL (Oracle APEX)** 
--   **Source Code Repository:** [NoahCHuber/HVACInventoryDatabase]((https://github.com/NoahCHuber/HVACInventoryDatabase))  
+-   **Source Code Repository:** [NoahCHuber/HVACInventoryDatabase](https://github.com/NoahCHuber/HVACInventoryDatabase)  
     (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
