@@ -26,13 +26,13 @@ However, the SQL used to generate the tables can be run in a separate database a
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-![screenshot](images/DatabaseIMG.jpg)  
+![screenshot](images/DatabaseIMG.png)  
 Fig 1. Dashboard/Home screen
 
-![screenshot](images/Jobs.jpg)  
+![screenshot](images/Jobs.png)  
 Fig 2. Jobs screen
 
-![screenshot](images/Orders.jpg)  
+![screenshot](images/Orders.png)  
 Fig 3. List of all orders
 
 ![screenshot](images/partsTable.png)
