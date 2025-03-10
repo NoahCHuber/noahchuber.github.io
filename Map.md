@@ -39,11 +39,14 @@ However, there is no human interaction when the program is running.
 
 Although this application does not have an interactive UI, the user can still technically interact with the program through the command line. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. Command Line
+![screenshot](images/CommandLine.png)  
+Fig 1. Command Line.
+
+![screenshot](images/Makefile.png)
+Fig 2. Makefile options.
 
 ![screenshot](images/MAP.png)  
-Fig 2. Actual Testing Data from program.
+Fig 3. Actual Testing Data from the program.
 
 ## 3. Additional Considerations
 
