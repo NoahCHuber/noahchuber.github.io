@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Map C++
+Large Map C++
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI315 Data Structure Analysis** 
+-   **Grade: A+** 
+-   **Language(s): C++** 
+-   **Source Code Repository:** [NoahCHuber/LargeMap](https://github.com/NoahCHuber/LargeMap)  
+    (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
