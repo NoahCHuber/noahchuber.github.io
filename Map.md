@@ -22,7 +22,7 @@ However, given the makefile, you can compile and run much easier.
 
 You can compile the program using the following command:
 
-make all
+**make all**
 
 Given the makefile, the program should be compiled automatically.
 
@@ -30,7 +30,7 @@ Given the makefile, the program should be compiled automatically.
 
 After compiling, you can run the program with:
 
-make run
+**make run**
 
 Depending on the implementation, the text files can be swapped. 
 However, there is no human interaction when the program is running. 
