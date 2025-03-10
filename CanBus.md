@@ -7,7 +7,7 @@ Sending Data Across a Can Bus
 -   **Grade: A** 
 -   **Language(s): C/C++** 
 -   **Source Code Repository:** [NoahCHuber/Arduino-CanBus](https://github.com/NoahCHuber/Arduino-CanBus)    
-    (Please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
