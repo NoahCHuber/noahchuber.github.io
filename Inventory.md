@@ -3,7 +3,7 @@
 **Parts Inventory Database 
 (Inspired By ServiceTitan)**
 
-===============
+===========================================
 
 -   **Class: CSCI 419 Database Management** 
 -   **Grade: B+** 
@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Development
 
-This project was developed inside of Oracle Apex as a database application. 
+This project was developed through Oracle Apex as a database application. 
 Access to the application is limited to the student and professor. 
 
 However, the SQL used to generate the tables can be run in a separate database and will generate the proper tables. 
@@ -42,6 +42,6 @@ Fig 4. List of all parts
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Github Oracle Apex Repo](https://github.com/oracle/apex).
 
 [Back to Portfolio](./)
