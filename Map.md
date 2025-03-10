@@ -42,8 +42,8 @@ Although this application does not have an interactive UI, the user can still te
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. Command Line
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Actual Output from the program.
+![screenshot](images/MAP.png)  
+Fig 2. Actual Testing Data from program.
 
 ## 3. Additional Considerations
 
