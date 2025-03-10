@@ -6,7 +6,7 @@ Sending Data Across a Can Bus
 -   **Class: CSCI332: Applied Networking** 
 -   **Grade: A** 
 -   **Language(s): C/C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [NoahCHuber/Arduino-CanBus](https://github.com/NoahCHuber/Arduino-CanBus))  
     (Please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -40,9 +40,9 @@ Here is a short overview and demonstration video [CanBus Video](https://youtu.be
 
 ## 3. Additional Considerations
 
-This is a barebones setup in beginning understanding and working with Can Bus communication. 
+This is a barebones setup, beginning understanding and working with Can Bus communication. 
 This project only controls the LCD and reads data from the temperature sensor. The code is easily adaptable.
 
-For more details or advanced look inside [Can Bus Github Repo](https://guides.github.com/features/mastering-markdown/).
+For more details or advanced look inside [Arduino CanBus Github Repo](https://github.com/autowp/arduino-mcp2515)  
 
 [Back to Portfolio](./)
