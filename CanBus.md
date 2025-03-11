@@ -34,6 +34,9 @@ reliability and fault tolerance.
 This setup uses a simple Liquid Crystal Display (LCD) and outputs the temperature. There is zero human input to this program after
 it is running. The temperature is monitored by the sensor and formatted as output on the LCD. 
 
+![screenshot](images/Setup.jpg)
+Fig.1 Setup and Output on the LCD
+
 ## Video Demonstration
 
 Here is a short overview and demonstration video [CanBus Video](https://youtu.be/A2FlE2YflOg).
