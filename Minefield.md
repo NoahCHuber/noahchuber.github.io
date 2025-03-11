@@ -19,22 +19,23 @@ This project merges gaming and cybersecurity to explore alternative authenticati
 
 Since the project is written in Java (using Swing for GUI development), it can be compiled and run in NetBeans.
 
-Steps to Compile and Run in NetBeans
-1. Open NetBeans
+**1. Open NetBeans**    
 
 Launch Apache NetBeans (or another version you have installed).
 Click on File → Open Project and select the Minefield project folder.
 
-3. Ensure JDK is Set
+**2. Ensure JDK is Set**    
+
 Go to Tools → Java Platforms and confirm that a Java SE development kit (JDK 8 or higher) is selected.
 Check that Swing components are enabled.
 
-4. Build/Compiling the Project
+**3. Build/Compiling the Project**
 
 Click Run → Clean and Build Project (or press Shift + F11).
 This compiles the project and checks for errors.
 
-6. Running the Project
+**4. Running the Project**    
+
 Click Run → Run Project.
 The game should start, displaying the Matrix-style intro, followed by the Minefield game UI.
 
