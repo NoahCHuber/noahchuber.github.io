@@ -1,7 +1,6 @@
 [Back to Portfolio](./)
 
-**Large Map Project C++**
-  ===================
+## Large Map Project C++
 
 -   **Class: CSCI315 Data Structure Analysis** 
 -   **Grade: A+** 
@@ -40,13 +39,15 @@ However, there is no human interaction when the program is running.
 Although this application does not have an interactive UI, the user can still technically interact with the program through the command line. 
 
 ![screenshot](images/CommandLine.png)  
-Fig 1. Command Line.
+Fig 1. Command Line. 
+(Demonstrates how the makefile can be used to compile and run the program)
 
 ![screenshot](images/Makefile.png)
-Fig 2. Makefile options.
+Fig 2. Makefile options. (Shows the makefile options that can be used)
 
 ![screenshot](images/MAP.png)  
-Fig 3. Actual Testing Data from the program.
+Fig 3. Actual Testing Data from the program. 
+(Data that was recorded when running the program)
 
 ## 3. Additional Considerations
 
