@@ -11,7 +11,9 @@
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Small HVAC Business Parts Database is a custom-built inventory management system designed to help a small family-owned HVAC company efficiently track parts, suppliers, and orders. The application simplifies parts management for both HVAC and Plumbing departments by allowing users to search, add, update, and remove parts from inventory. The system ensures accurate inventory tracking by maintaining audit trails for all modifications and requiring user authentication to prevent unauthorized access.
+
+This inventory database is intended for businesses with roughly 50 employees, primarily parts managers, technicians, job schedulers, and financial staff. The database will be hosted on a local machine with network connectivity to allow real-time updates. However, it will not support multi-location warehouse management or complex logistics. The goal is to create a simple and secure inventory system that enhances efficiency for HVAC and plumbing parts.
 
 ## Development
 
@@ -22,23 +24,43 @@ However, the SQL used to generate the tables can be run in a separate database a
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The Small HVAC Business Parts Database features a simple GUI designed for ease of use by inventory managers and technicians.
+The interface is designed for simplicity, ensuring fast navigation and minimal training required for employees.
 
 ![screenshot](images/DatabaseIMG.png)  
 Fig 1. Dashboard/Home screen
+(Provides financial dashboard and company statistics)
 
 ![screenshot](images/Jobs.png)  
-Fig 2. Jobs screen
+Fig 2. Jobs screen (Allows job scheduling)
 
 ![screenshot](images/Orders.png)  
-Fig 3. List of all orders
+Fig 3. List of all orders (List of all orders and part numbers)
+(Orders can be placed from this window)
 
 ![screenshot](images/partsTable.png)
-Fig 4. List of all parts
+Fig 4. List of all parts (List of all parts available in inventory)
+(Parts can be added to inventory from this window)
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+If you’re planning to use, manage, or troubleshoot the Small HVAC Business Parts Database, here are some real-world considerations you should be aware of:
+
+**1. Internet & Network Dependencies:**
+  
+Since Oracle APEX is web-based, the system requires a stable internet connection. If the network goes down, users won’t be able to access the inventory.
+
+**2. Performance Issues & Optimization:**     
+Large inventory data sets can slow down queries. 
+Optimize search functions to filter results efficiently rather than loading the entire database.
+
+**3. Scalability – Can the System Handle Growth?**
+If the company expands and adds more locations, this system may not be sufficient because it does not support multi-location warehouse tracking or complex distribution logistics.
+If future growth is expected, consider cloud-based scalability options or a multi-instance APEX setup.
+
+**4. Legal & Compliance Issues**     
+If the system stores financial data, ensure it complies with business regulations (e.g., tax reporting, audit requirements).
+Personal data protection laws (GDPR, CCPA) may apply if storing employee or supplier personal information.
 
 For more details see [Github Oracle Apex Repo](https://github.com/oracle/apex).
 
