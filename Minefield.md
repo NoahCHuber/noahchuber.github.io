@@ -11,38 +11,64 @@ Minefield
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Minefield project is a security-focused application that integrates a game-based authentication system. It presents users with a unique Minesweeper-style challenge before allowing access to a system. Instead of traditional password entry, users must complete a "blind" Minefield game, which lacks the usual numerical hints indicating bomb locations. They are given three flags to mark potential mines and must safely navigate across the board.
+The game’s mine placements are not random; an organization predetermines them and can be modified in response to security threats. Upon successfully completing the game, users proceed to a login screen, where they must enter their credentials. If they fail either the game or login process, they are required to replay the game before another login attempt.
+This project merges gaming and cybersecurity to explore alternative authentication methods, demonstrating a creative fusion of interactive security measures and personalized user access. It was inspired by the 1983 film WarGames and serves as a proof-of-concept for integrating game mechanics into network security authentication.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+Since the project is written in Java (using Swing for GUI development), it can be compiled and run in NetBeans.
 
-```bash
-cd ./project
-python setup.py
-```
+Steps to Compile and Run in NetBeans
+1. Open NetBeans
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Launch Apache NetBeans (or another version you have installed).
+Click on File → Open Project and select the Minefield project folder.
+
+3. Ensure JDK is Set
+Go to Tools → Java Platforms and confirm that a Java SE development kit (JDK 8 or higher) is selected.
+Check that Swing components are enabled.
+
+4. Build/Compiling the Project
+
+Click Run → Clean and Build Project (or press Shift + F11).
+This compiles the project and checks for errors.
+
+6. Running the Project
+Click Run → Run Project.
+The game should start, displaying the Matrix-style intro, followed by the Minefield game UI.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The Minefield project features a graphical user interface (GUI) designed with Java Swing, incorporating multiple screens to enhance user interaction.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/Minefield1IMG.png)  
+Fig 1. Matrix Zeroes Loading Effect
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/MinefieldIMG.png)  
+Fig 2. Game Screen UI
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Login.png)  
+Fig 3. Login Screen UI
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+If you are trying to run the Minefield program, here are a few important things to keep in mind:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+System Requirements:
+
+The program is written in Java, so you must have JDK 8 or later installed.
+A computer with at least 4GB of RAM is recommended for smooth execution. 
+Older or low-powered machines may experience slow UI rendering.
+
+Common Errors & Fixes:
+
+"Main class not found" error: Make sure the project is properly built (Clean and Build Project in NetBeans).
+UI not displaying correctly: Some systems may have issues with Java Swing scaling (ESPECIALLY MACOS). 
+
+Security Considerations:
+
+Since the program includes an authentication system, ensure that your login credentials are correctly stored and match the program's requirements. (These are pre-written in the game's code)
+If login attempts fail, you will need to replay the Minefield game before trying again.
 
 [Back to Portfolio](./)
