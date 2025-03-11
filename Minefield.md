@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Minefield
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI325 Object Oriented Programming** 
+-   **Grade: A** 
+-   **Language(s): Java** 
+-   **Source Code Repository:** [csu-cs/CSCI-325-Minefield](https://github.com/csu-cs/CSCI-325-Minefield) 
+    (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
