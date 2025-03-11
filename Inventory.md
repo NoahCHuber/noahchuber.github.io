@@ -2,8 +2,6 @@
 
 ## Parts Inventory Database (Inspired By ServiceTitan)
 
-===========================================
-
 -   **Class: CSCI 419 Database Management** 
 -   **Grade: B+** 
 -   **Language(s): SQL (Oracle APEX)** 
