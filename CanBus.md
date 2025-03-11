@@ -3,7 +3,7 @@
 Sending Data Across a Can Bus
 ===============
 
--   **Class: CSCI332: Applied Networking** 
+-   **Class: CSCI332 Applied Networking** 
 -   **Grade: A** 
 -   **Language(s): C/C++** 
 -   **Source Code Repository:** [NoahCHuber/Arduino-CanBus](https://github.com/NoahCHuber/Arduino-CanBus)    
