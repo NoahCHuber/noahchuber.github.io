@@ -56,18 +56,18 @@ Fig 3. Login Screen UI
 
 If you are trying to run the Minefield program, here are a few important things to keep in mind:
 
-System Requirements:
+**System Requirements:**     
 
 The program is written in Java, so you must have JDK 8 or later installed.
 A computer with at least 4GB of RAM is recommended for smooth execution. 
 Older or low-powered machines may experience slow UI rendering.
 
-Common Errors & Fixes:
+**Common Errors & Fixes:**    
 
 "Main class not found" error: Make sure the project is properly built (Clean and Build Project in NetBeans).
 UI not displaying correctly: Some systems may have issues with Java Swing scaling (ESPECIALLY MACOS). 
 
-Security Considerations:
+**Security Considerations:**    
 
 Since the program includes an authentication system, ensure that your login credentials are correctly stored and match the program's requirements. (These are pre-written in the game's code)
 If login attempts fail, you will need to replay the Minefield game before trying again.
