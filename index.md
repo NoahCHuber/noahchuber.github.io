@@ -4,7 +4,7 @@ Senior Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:nchuber@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Sending Data Across A Can Bus | CSCI 332](CanBus.md)
@@ -12,7 +12,7 @@ Programming Projects
 ![CanBus](images/CanBusIMG.png)
 
 ---
-### [Inventory DataBase (Inspired By ServiceTitan) | CSCI 315](Inventory.md)
+### [Inventory DataBase (Inspired By ServiceTitan) | CSCI 419](Inventory.md)
 
 ![Inventory Database](images/DatabaseIMG.png)
 
