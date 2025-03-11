@@ -1,7 +1,6 @@
 [Back to Portfolio](./)
 
-## Parts Inventory Database 
-## (Inspired By ServiceTitan)
+## Parts Inventory Database (Inspired By ServiceTitan)
 
 ===========================================
 
