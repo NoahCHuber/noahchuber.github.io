@@ -6,7 +6,7 @@ Minefield
 -   **Class: CSCI325 Object Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [NoahCHuber/Minefield](https://github.com/NoahCHuber/Minefield/tree/main) 
+-   **Source Code Repository:** [NoahCHuber/Minefield](https://github.com/NoahCHuber/Minefield/tree/main)     
     (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
