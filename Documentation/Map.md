@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](../)
 
 ## Large Map Project C++
 
@@ -62,4 +62,4 @@ Debugging can be performed with assertions, print statements, and profiling tool
 
 For more details see [CSU Data Structures](https://github.com/csu-cs/CSCI-315-2024-Fall).
 
-[Back to Portfolio](./)
+[Back to Portfolio](../)
