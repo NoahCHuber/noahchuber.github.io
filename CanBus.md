@@ -1,7 +1,6 @@
 [Back to Portfolio](./)
 
-Sending Data Across a Can Bus
-===============
+## Sending Data Across a Can Bus
 
 -   **Class: CSCI332 Applied Networking** 
 -   **Grade: A** 
