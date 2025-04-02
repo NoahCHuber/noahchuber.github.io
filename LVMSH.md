@@ -39,13 +39,13 @@ Security Hardening:
 
 **While the focus is on command-line interaction, these UI elements are part of the setup:**
 
-- **VM Interface: VirtualBox “New Machine” creation and ISO import UI.**
+- **VM Interface:** VirtualBox “New Machine” creation and ISO import UI.
 
-- **Ubuntu Desktop: After installation, change the background image via Settings > Appearance.**
+- **Ubuntu Desktop:** After installation, change the background image via Settings > Appearance.
 
-- **Terminal Pinning: Right-click Terminal and select “Pin to Dash.”**
+- **Terminal Pinning:** Right-click Terminal and select “Pin to Dash.”
 
-- **Running Terminal Commands Using Bash: Follow the rest of the walkthrough guide and run bash commands in the terminal.**
+- **Running Terminal Commands Using Bash:** Follow the rest of the walkthrough guide and run bash in the terminal.
 
 ## Video Demonstration
 
