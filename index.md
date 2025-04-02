@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethical Implications of Cybersecurity](/pdf/CSCI325 Ethics Paper - Noah Huber.pdf)
+### [Ethical Implications of Cybersecurity](/pdf/CSCI325-NH.pdf)
 
 -   **Class: CSCI 325: Object Oriented Programming**  
 -   **Grade: A**
 
-### [Ethics of Professionals in Technology](/pdf/CSCI315 Ethics Paper - Noah Huber.pdf)
+### [Ethics of Professionals in Technology](/pdf/CSCI315-NH.pdf)
 
 -   **Class: CSCI 315: Data-Structure Analysis** 
 -   **Grade: A**
 
-### [Ethics of Net Neutrality](/pdf/CSCI332 Ethics Paper - Noah Huber.pdf)
+### [Ethics of Net Neutrality](/pdf/CSCI332-NH.pdf)
 
 -   **Class: CSCI 332: Applied Networking** 
 -   **Grade: A**
