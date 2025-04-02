@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Sending Data Across a Can Bus
+Linux, Virtual Machines, & System Observation
 ===============
 
--   **Class: CSCI332 Applied Networking** 
+-   **Class: CSCI352 Cyber Defense** 
 -   **Grade: A** 
--   **Language(s): C/C++** 
--   **Source Code Repository:** [NoahCHuber/Arduino-CanBus](https://github.com/NoahCHuber/Arduino-CanBus)    
+-   **Language(s): Bash/Terminal* 
+-   **Source Code Repository:** [NoahCHuber/Linux, Virtual Machines, & System Observation](https://github.com/NoahCHuber/Linux-Virtual-Machines-System-Observation/tree/main)    
     (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
