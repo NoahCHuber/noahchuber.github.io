@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Linux, Virtual Machines, & System Observation | CSCI 352](LVMSH.md)
 
-![Linux, Virtual Machines, & System Observation](LVMSH.png)
+![Linux, Virtual Machines, & System Observation](images/LVMSH.png)
 
 ---
 ### [MineField | CSCI 325](Minefield.md)
