@@ -49,7 +49,7 @@ Security Hardening:
 
 ## Video Demonstration
 
-Here is a short overview and demonstration video [CanBus Video](https://youtu.be/H6CmDfxaZZE?si=DQCOyESI8DCIIBmm).
+Here is a short overview and demonstration video [Linux, Virtual Machines, & System Observation Video](https://youtu.be/H6CmDfxaZZE?si=DQCOyESI8DCIIBmm).
 
 ## 3. Additional Considerations
 
