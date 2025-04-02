@@ -5,7 +5,7 @@ Linux, Virtual Machines, & System Observation
 
 -   **Class: CSCI352 Cyber Defense** 
 -   **Grade: A** 
--   **Language(s): Bash/Terminal* 
+-   **Language(s): Bash/Terminal**
 -   **Source Code Repository:** [NoahCHuber/Linux, Virtual Machines, & System Observation](https://github.com/NoahCHuber/Linux-Virtual-Machines-System-Observation/tree/main)    
     (Please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) to request access.)
 
