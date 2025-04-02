@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](././)
 
 Minefield
 ===============
@@ -75,4 +75,4 @@ UI not displaying correctly: Some systems may have issues with Java Swing scalin
 Since the program includes an authentication system, ensure that your login credentials are correctly stored and match the program's requirements. (These are pre-written in the game's code)
 If login attempts fail, you will need to replay the Minefield game before trying again.
 
-[Back to Portfolio](./)
+[Back to Portfolio](././)
