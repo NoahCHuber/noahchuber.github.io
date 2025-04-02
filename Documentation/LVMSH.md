@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](../)
 
 Linux, Virtual Machines, & System Observation
 ===============
@@ -70,4 +70,4 @@ Though the steps are manual now, they lay the groundwork for scripting and autom
 **5. Emphasizes Security Mindset**
 More than anything, this project helps develop a security-first mindset—observing what’s running, understanding what shouldn’t be, and taking steps to harden systems. These habits are essential for ethical hacking, red/blue team exercises, and secure development.
 
-[Back to Portfolio](./)
+[Back to Portfolio](../)
