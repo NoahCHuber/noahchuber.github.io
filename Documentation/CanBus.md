@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](../)
 
 ## Sending Data Across a Can Bus
 
@@ -47,4 +47,4 @@ This project only controls the LCD and reads data from the temperature sensor. T
 
 For more details or advanced look inside [Arduino CanBus Github Repo](https://github.com/autowp/arduino-mcp2515)  
 
-[Back to Portfolio](./)
+[Back to Portfolio](../)
