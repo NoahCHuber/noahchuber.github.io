@@ -62,7 +62,7 @@ Presentations
 - **Class: CSCI 332: Applied Networking** 
 - **Grade: A**
 
-### [Linux, Virtual Machines, & System Observation]
+### [Linux, Virtual Machines, & System Observation](/pdf/Linux, Virtual Machines, and Network Hardening.pdf)
 
 - **Class CSCI 352: Cyber Defense**
 - **Grade: A**
