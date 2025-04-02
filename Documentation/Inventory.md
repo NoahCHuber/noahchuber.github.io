@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](../)
 
 ## Parts Inventory Database
 **(Inspired By ServiceTitan)**
@@ -64,4 +64,4 @@ Personal data protection laws (GDPR, CCPA) may apply if storing employee or supp
 
 For more details see [Github Oracle Apex Repo](https://github.com/oracle/apex).
 
-[Back to Portfolio](./)
+[Back to Portfolio](../)
