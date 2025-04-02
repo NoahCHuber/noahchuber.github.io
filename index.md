@@ -7,27 +7,27 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Sending Data Across A Can Bus | CSCI 332](CanBus.md)
+### [Sending Data Across A Can Bus | CSCI 332](/Documentation/CanBus.md)
 
 ![CanBus](images/CanBusIMG.png)
 
 ---
-### [Inventory DataBase (Inspired By ServiceTitan) | CSCI 419](Inventory.md)
+### [Inventory DataBase (Inspired By ServiceTitan) | CSCI 419](/Documentation/Inventory.md)
 
 ![Inventory Database](images/DatabaseIMG.png)
 
 ---
-### [Large Map | CSCI 315](Map.md)
+### [Large Map | CSCI 315](/Documentation/Map.md)
 
 ![Large Map](images/MAP.png)
 
 ---
-### [Linux, Virtual Machines, & System Observation | CSCI 352](LVMSH.md)
+### [Linux, Virtual Machines, & System Observation | CSCI 352](/Documentation/LVMSH.md)
 
 ![Linux, Virtual Machines, & System Observation](images/LVMSH.png)
 
 ---
-### [MineField | CSCI 325](Minefield.md)
+### [MineField | CSCI 325](/Documentation/Minefield.md)
 
 ![Minefield](images/Minefield1IMG.png)
 
