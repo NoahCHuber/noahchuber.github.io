@@ -62,6 +62,11 @@ Presentations
 - **Class: CSCI 332: Applied Networking** 
 - **Grade: A**
 
+### [Linux, Virtual Machines, & System Observation]
+
+- **Class CSCI 352: Cyber Defense**
+- **Grade: A**
+
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
