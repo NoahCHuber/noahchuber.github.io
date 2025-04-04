@@ -27,18 +27,18 @@ However, the SQL used to generate the tables can be run in a separate database a
 The Small HVAC Business Parts Database features a simple GUI designed for ease of use by inventory managers and technicians.
 The interface is designed for simplicity, ensuring fast navigation and minimal training required for employees.
 
-![screenshot](images/DatabaseIMG.png)  
+![screenshot](/images/DatabaseIMG.png)  
 Fig 1. Dashboard/Home screen
 (Provides financial dashboard and company statistics)
 
-![screenshot](images/Jobs.png)  
+![screenshot](/images/Jobs.png)  
 Fig 2. Jobs screen (Allows job scheduling)
 
-![screenshot](images/Orders.png)  
+![screenshot](/images/Orders.png)  
 Fig 3. List of all orders (List of all orders and part numbers)
 (Orders can be placed from this window)
 
-![screenshot](images/partsTable.png)
+![screenshot](/images/partsTable.png)
 Fig 4. List of all parts (List of all parts available in inventory)
 (Parts can be added to inventory from this window)
 
