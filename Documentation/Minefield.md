@@ -43,15 +43,15 @@ The game should start, displaying the Matrix-style intro, followed by the Minefi
 
 The Minefield project features a graphical user interface (GUI) designed with Java Swing, incorporating multiple screens to enhance user interaction.
 
-![screenshot](images/Minefield1IMG.png)  
+![screenshot](/images/Minefield1IMG.png)  
 Fig 1. Matrix Zeroes Loading Effect     
 (Loading screen while the game loads)
 
-![screenshot](images/MinefieldIMG.png)  
+![screenshot](/images/MinefieldIMG.png)  
 Fig 2. Game Screen UI     
 (Example of the game screen)
 
-![screenshot](images/Login.png)  
+![screenshot](/images/Login.png)  
 Fig 3. Login Screen UI
 (Example of the login screen)(This may look different depending on the OS)
 
