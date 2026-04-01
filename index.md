@@ -7,6 +7,11 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:hubercnoah@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
+### [SwiftEdge Security & Optimizer | CSCI Senior Project 498/499](/Documentation/SwiftEdge.md)
+
+![SwiftEdge](images/SwiftEdge.png)
+
+---
 ### [Sending Data Across A Can Bus | CSCI 332](/Documentation/CanBus.md)
 
 ![CanBus](images/CanBusIMG.png)
@@ -56,11 +61,15 @@ Ethics Papers
 Presentations
 -------------
 
+### [SwiftEdge Security & Optimizer](/pdf/SwiftEdge.pdf)
+
+- **Class: CSCI 499: Senior Project Defense** 
+- **Grade: A**
+
 ### [Small Businesses and Cybersecurity](/pdf/SBaC.pdf)
 
 - **Class: CSCI 405: Principles of Cybersecurity** 
 - **Grade: A**
-
 
 ### [Sending Data Across A Can Bus](/pdf/CanBus.pdf)
 
