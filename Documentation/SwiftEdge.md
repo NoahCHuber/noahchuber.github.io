@@ -20,8 +20,7 @@ Access is limited to the advisor, Noah Huber, and Daniel Howard. (Explicit acces
 
 ## UI Design
 
-The Small HVAC Business Parts Database features a simple GUI designed for ease of use by inventory managers and technicians.
-The interface is designed for simplicity, ensuring fast navigation and minimal training required for employees.
+The UI Consists of a simple Gamer focused design style with easy to use functions, checkboxes, and buttons. 
 
 ![screenshot](/images/HomePage.png)  
 Fig 1. Landing/Home Screen
