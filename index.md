@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [SwiftEdge Security & Optimizer | CSCI Senior Project 498/499](/Documentation/SwiftEdge.md)
 
-![SwiftEdge](images/SwiftEdge.png)
+![SwiftEdge](images/HomePage.png)
 
 ---
 ### [Sending Data Across A Can Bus | CSCI 332](/Documentation/CanBus.md)
