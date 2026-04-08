@@ -123,6 +123,8 @@ The Vulnerability Scanner module is implemented differently from the other modul
 ![screenshot](/images/Vuln.png)
 Fig. 5. The Vulnerability Scanner output panel.
 
+[NoahCHuber/CSCISeniorProject](https://github.com/NoahCHuber/CSCISeniorProject)  
+
 ## 6. Test Plan
 Testing for the project is documented in a dedicated test-plan file. The maintained approach is developer-driven and focuses on functional verification of individual modules, regression testing after fixes, and integration testing across the shared GUI. The current test-plan scope centers on actions that can be observed, logged, or verified through registry values, service states, GUI behavior, and vulnerability output.
 
