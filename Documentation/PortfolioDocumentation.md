@@ -187,7 +187,7 @@ The current project provides a functional foundation, but several future enhance
 The Defense Presentation Slides should be a mirror of this document which outlines the immense depth of the project and aligns with defense requirements. 
 
 The Defense Presentation Slides are located: 
-- [Defense Presentation](/pdf/DefensePresentation.pdf)
+- [Defense Presentation](/pdf/SwiftEdgeSeniorProject.pdf)
 
 ## 11. Additional Considerations
 
