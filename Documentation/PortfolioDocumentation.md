@@ -123,6 +123,7 @@ The Vulnerability Scanner module is implemented differently from the other modul
 ![screenshot](/images/Vuln.png)
 Fig. 5. The Vulnerability Scanner output panel.
 
+Below is the link to our project repository:
 [NoahCHuber/CSCISeniorProject](https://github.com/NoahCHuber/CSCISeniorProject)  
 
 ## 6. Test Plan
